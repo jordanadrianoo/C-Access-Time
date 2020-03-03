@@ -4,5 +4,5 @@ This code experiment will test the access time between a STL Vector and Array fo
 
 <img src="Repository Images/Access Time Demo.JPG">
 
-## c
+## conclusion
 we can see by the image provided that Arrays have a faster access time than Vectors. 
